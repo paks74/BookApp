@@ -7,7 +7,7 @@
 </head>
 <body>
 <div class="LoginBox" style="height: max-content;">
-    <div class="title">Login</div>
+    <div class="title">Prakash Online Books Login</div>
     <form method="post" action="Login">
         <div class="User-details">
             <div class="input-box">
